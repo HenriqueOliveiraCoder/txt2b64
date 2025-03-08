@@ -11,7 +11,7 @@ Run the following command in the repository folder to install the program:
 ```sh
 make install
 ```
-Run the following command in the repository folder to remove it:
+Run the following command in the repository folder to uninstall it:
 ```sh
-make clean
+make uninstall
 ```
